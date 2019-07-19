@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "flats-app-dev-20190719111955-authRole",
+            "UnauthRoleArn": "arn:aws:iam::623459832075:role/flats-app-dev-20190719111955-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::623459832075:role/flats-app-dev-20190719111955-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "flats-app-dev-20190719111955-deployment",
+            "UnauthRoleName": "flats-app-dev-20190719111955-unauthRole",
+            "StackName": "flats-app-dev-20190719111955",
+            "StackId": "arn:aws:cloudformation:us-east-1:623459832075:stack/flats-app-dev-20190719111955/fd7e8ca0-a9fd-11e9-b155-1235152b041e"
+        },
+        "categories": {
+            "auth": {
+                "flatsapp14cee4b2": {}
+            }
+        }
+    }
+}

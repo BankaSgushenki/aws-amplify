@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { AmplifyService } from 'aws-amplify-angular';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'flats-app';
+  title = 'Flats App';
+
+  constructor() {}
 }
